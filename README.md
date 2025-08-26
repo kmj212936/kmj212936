@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Space%20AI%20Designer&fontSize=90)
-## Welcome to My Profile! 👋
+
+## 👋 Welcome to My Profile! 
 - Interior Architecture × Data & AI
 - A spatial experience strategist dealing with AI and a sensual interior designer.
 - A person who understands people, senses space, and connects them with technology
