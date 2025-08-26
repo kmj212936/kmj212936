@@ -1,11 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Space%20AI%20Designer&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=AI%20Interior%20Designer&fontSize=90)
 
 ## 👋 Welcome to My Profile! 
 - Interior Architecture × Data & AI
 - A spatial experience strategist dealing with AI and a sensual interior designer.
 - A person who understands people, senses space, and connects them with technology
 
-## 🏆 Projects
+
+## Projects
 
 ### 🚗 중고차 시세 조회 및 FAQ 통합 시스템 [🔗Repo](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN15-1st-4TEAM)
 
@@ -61,7 +62,7 @@
 
 ---
 
-## 🚀 Next Project Plan
+## Next Project Plan
 ### 🖼️ Advanced Image Search & Generation (이미지 기반 검색 및 생성형 AI 통합)
 - 이미지 기반 검색 (Image-to-Image Retrieval)
 - 프롬프트 기반 이미지 수정 (색상 변경, 분위기 조정 등)
@@ -90,9 +91,7 @@
 - 개인지식 큐레이션 자동화
 사용 기술: LangChain | PostgresDB | FastAPI | ElasticSearch
 
-
-
-
+---
 
 ### 기술 스택
 
@@ -105,6 +104,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
 
+---
 ### 소통
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
