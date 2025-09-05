@@ -1,14 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=AI%20Interior%20Designer&fontSize=90)
 
-## 👋 Welcome to My Profile! 
+## 👋 Welcome to My Profile!👋
 - Interior Architecture × Data & AI
 - A spatial experience strategist dealing with AI and a sensual interior designer.
 - A person who understands people, senses space, and connects them with technology
 
 
-## Projects
+## ⚒️Projects⚒️
 
-### 🚗 중고차 시세 조회 및 FAQ 통합 시스템 [🔗Repo](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN15-1st-4TEAM)
+### 1. 중고차 시세 조회 및 FAQ 통합 시스템 [🔗Repo](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN15-1st-4TEAM)
 
 - **프로젝트 목표**:  
   신뢰할 수 있는 중고차 시세와 상세 정보, FAQ 통합(절차·세금·보증 등) 제공
@@ -25,7 +25,7 @@
 
 ---
 
-### 🛒 Instacart 고객 이탈 예측 및 마케팅 대시보드 [🔗Repo](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN15-2nd-4Team)
+### 2. Instacart 고객 이탈 예측 및 마케팅 대시보드 [🔗Repo](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN15-2nd-4Team)
 
 - **프로젝트 목표**:  
   고객별 이탈 위험 조기 탐지, 개인화 마케팅 전략 제안
@@ -44,7 +44,7 @@
 
 ---
 
-### 💬 Anki 기반 개인화 학습 챗봇 [🔗Repo](https://github.com/SKNETWORKS-FAMILY-AICAMP/skn15-3rd-4team)
+### 3. Anki 기반 개인화 학습 챗봇 [🔗Repo](https://github.com/SKNETWORKS-FAMILY-AICAMP/skn15-3rd-4team)
 
 - **프로젝트 목표**:  
   RAG 기반 Q/A, Anki & DB 연동으로 개인화 복습 지원 챗봇 개발
@@ -93,8 +93,7 @@
 
 ---
 
-### 기술 스택
-
+### ⚒️기술 스택⚒️
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
