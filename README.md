@@ -144,7 +144,7 @@ Amazon S3
  
 ---
 
-### ⚒️인테리어 디자인 기술 스택⚒️
+### ⚒️실내 디자인 기술 스택⚒️
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
