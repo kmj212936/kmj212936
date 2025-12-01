@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=AI%20Interior%20Designer&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=AI%20Engineer&fontSize=90)
 
 ## 👋 Welcome to My Profile!
 - **Interior Architecture × Data & AI**
