@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=AI%20Engineer&fontSize=90)
+-  I am an AI-based spatial and data engineer who designs AI modeling and service structure based on user behavior data and spatial context 
 
 ## 👋 Welcome to My Profile!
 - **Interior Architecture × Data & AI**
