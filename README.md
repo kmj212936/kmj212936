@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=AI%20Engineer&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=4641D9&height=300&section=header&text=Interior%20%20data%20design%20&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 -  I am an AI-based spatial and data engineer who designs AI modeling and service structure based on user behavior data and spatial context 
 
 ## 👋 Welcome to My Profile!
@@ -10,7 +10,8 @@
 
 ## ⚒️Projects⚒️
 
-## **1. 중고차 시세 조회 및 FAQ 통합 시스템** 
+
+### **1. 중고차 시세 조회 및 FAQ 통합 시스템** 
 ### 🔗 [SKN15-1st-4TEAM Repo](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN15-1st-4TEAM)
 
 - **프로젝트 목표**:  
@@ -29,7 +30,7 @@
 
 ---
 
-## **2. Instacart 고객 이탈 예측 및 마케팅 대시보드** 
+### **2. Instacart 고객 이탈 예측 및 마케팅 대시보드** 
 ### 🔗 [SKN15-2nd-4TEAM Repo](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN15-2nd-4Team)
 
 - **프로젝트 목표**:  
@@ -50,9 +51,8 @@
 
 ---
 
-## **3-4. (3→4번 연계 프로젝트) Anki 기반 개인화 학습 챗봇** 
-### 🔗 [SKN15-3rd-4TEAM Repo](https://github.com/SKNETWORKS-FAMILY-AICAMP/skn15-3rd-4team)
-### 🔗 [SKN15-4th-4TEAM Repo](https://github.com/SKNETWORKS-FAMILY-AICAMP/skn15-4th-4team)
+### **3-4. (3→4번 연계 프로젝트) Anki 기반 개인화 학습 챗봇** 
+### 🔗 [SKN15-3rd-4TEAM Repo](https://github.com/SKNETWORKS-FAMILY-AICAMP/skn15-3rd-4team) 🔗 [SKN15-4th-4TEAM Repo](https://github.com/SKNETWORKS-FAMILY-AICAMP/skn15-4th-4team)
 
 - **프로젝트 목표**:  
  RAG 기반 Q/A + Anki 연동으로 개인화된 반복 학습을 자동화하는 챗봇 구축
@@ -70,16 +70,22 @@
 
 
 ---
-## **5. AI 기반 Interior Design Platform – 빈방 생성 모델 파인튜닝 (Final Project)**  
+### **5. AI 기반 Interior Design Platform – 빈방 생성 모델 파인튜닝 (Final Project)**  
 ### 🔗 [SKN15-FINAL-4TEAM Repo](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN15-FINAL-4TEAM)
 
 > **📌 역할 요약**
+> ### 데이터 전처리 및 모델링을 위한 프로그래밍
+- Python 기반 데이터 처리 및 파일 구조 자동화(Numpy, Pandas) 
+- 학술 논문 크롤링(Selenium, BeautifulSoup) + 텍스트 정제
+- 이미지 데이터셋 매칭·정제·전처리 파이프라인 구축 / 모델 학습 로그 분석 및 Loss 개선·디버깅 실험 수행
 
-> - 빈방 생성 모델 파이프라인 설계 & 모델 파인튜닝 실험
-> - 데이터셋 구조 분석 및 이미지·텍스트 매칭 전처리
-> - LPIPS/SSIM/PSNR 기반 모델 성능 평가
-> - 성능 한계 분석 후, Gemini/GPT(OpenAI API) 기반 이미지 생성 모델로 아키텍처 전환 결정
-> - → AI 기반 공간 처리 워크플로우 설계 경험 + 모델 실험과 실제 서비스 적용을 연결하는 역할 수행
+> ### 데이터 기반의 인사이트 도출 및 문제 해결
+- 인테리어·공간 이미지 구조를 ‘데이터 기준’으로 분석하며 구조적 패턴을 도출
+- 이미지 태깅·매칭 체계를 설계하고 공간 요소 기반 분석 구조를 구축
+- UX 흐름을 모델 입력 경로·전처리 규칙으로 변환하여 문제 정의를 수행
+- 디자이너·개발자 간 데이터 기준을 통일하기 위해 전처리 규칙·이미지 기준을 구조화하며 협업
+
+
 
 ### 🎯 프로젝트 목표
 
@@ -144,21 +150,41 @@ Amazon S3
  
 ---
 
-### ⚒️실내 디자인 기술 스택⚒️
+### ⚒️my skills..
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
-![Vray](https://img.shields.io/badge/Vray-%23CCCCFF?style=for-the-badge&logo=Vray&logoColor=black)
-
+![V-ray](https://img.shields.io/badge/Vray-%23CCCCFF?style=for-the-badge&logo=Vray&logoColor=black)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
----
-### 🟢소통
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20Amplify-FF9900?style=flat&logo=awsamplify&logoColor=black"/>
 
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-000?style=flat&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=flat&logoColor=white"/>
+
+  <!-- AI -->
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+
+  <!-- Infra -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+
+  <!-- Data -->
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+</p>
+
+**Other Key Tools..** `pgvector`, `RunPod`, `NanoBanana`, `Stable Diffusion`, `FLUX`, `Selenium`, `BeautifulSoup`, `Pandas`
